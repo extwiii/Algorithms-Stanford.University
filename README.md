@@ -18,6 +18,11 @@
 ## Course 2 - Graph Search, Shortest Paths, and Data Structures
 * GRAPH SEARCH AND CONNECTIVITY 
 * DIJKSTRA'S SHORTEST-PATH ALGORITHM
+* HEAPS
+* BALANCED BINARY SEARCH TREES
+* HASHING: THE BASICS
+* UNIVERSAL HASHING
+* BLOOM FILTERS
 
 ## Course 3 - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 * 
