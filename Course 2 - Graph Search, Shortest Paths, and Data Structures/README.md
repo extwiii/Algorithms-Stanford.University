@@ -1,0 +1,15 @@
+# Course 2 - Graph Search, Shortest Paths, and Data Structures
+
+## week1
+* GRAPH SEARCH AND CONNECTIVITY
+
+## week2
+* DIJKSTRA'S SHORTEST-PATH ALGORITHM
+
+## week3
+* HEAPS
+* BALANCED BINARY SEARCH TREES 
+
+## week4
+* HASHING: THE BASICS
+* UNIVERSAL HASHING
