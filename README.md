@@ -1,6 +1,5 @@
 # Algorithms-Stanford.University
-* Learn To Think Like A Computer Scientist 
-* Algorithms - Stanford University - Coursera
+* Learn To Think Like A Computer Scientist, Algorithms - Stanford University - Coursera
 
  This specialization is an introduction to algorithms for learners with at least a little programming experience. The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details. After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists.
 
