@@ -1,4 +1,4 @@
-# Course 4 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them 
+# Course 4 - Shortest Paths Revisited,NP-Complete Problems and What To Do About Them 
 
 ## week1
 * THE BELLMAN-FORD ALGORITHM 
